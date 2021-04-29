@@ -2,3 +2,5 @@
 /srv
 /*.drawio
 /log/
+/go.mod
+/go.sum
